@@ -1,0 +1,4 @@
+TRUNCATE TABLE store_stock;
+
+INSERT INTO store_stock ( id, id_product, id_loja, cod_prod, titulo, estoque_qtd)     
+VALUES (1,NULL,'003','8411061816615','212 BODY F 250ML',3),

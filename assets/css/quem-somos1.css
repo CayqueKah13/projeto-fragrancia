@@ -1,0 +1,19 @@
+.title-who{
+	color:#8d150c;
+	font-weight: 600;
+}
+.background-who{
+	background-color: #f9f9f9;
+	padding: 20px;
+}
+.p-who{
+	font-size:14pt;
+}
+
+@media (max-width: 992px) {
+
+	.background-who{
+		margin-top: 15px;
+	}
+
+}

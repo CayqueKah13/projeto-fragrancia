@@ -1,0 +1,44 @@
+Cartão de Crédito
+________________________
+Nome: Bonierky Lacerda
+E-mail: c58581654920020230420@sandbox.pagseguro.com.br
+CPF: 469.813.238-00
+DDD: 11 Telefone: 9999-9999
+CEP: 58410-340
+Rua: Rua Vigário Calixto
+Número: 1400
+Complemento:
+
+Bairro: Catolé
+Cidade: Campina Grande
+Estado: Paraíba
+
+Número do cartão: 4111 1111 1111 1111
+Titular do cartão: Bruno Lucio
+Código de Segurança: 123
+CPF do Titular do cartão: 469.813.238-00
+Data de Nascimento do titular do cartão: 23/12/1995
+DDD: 11 Telefone do titular do cartão: 9999-9999
+
+
+
+
+_____________________________________
+
+Boleto
+______
+
+Seu Nome: Bonierky Lacerda
+CPF: 469.813.238-00
+E-mail: c58581654920020230420@sandbox.pagseguro.com.br
+DDD: 11 Telefone:99999-999
+CEP: 58410-340
+Cidade: Campina Grande
+Estado: Paraiba
+Bairro: Catolé
+
+Rua: Rua Vigário Calixto
+Número: 1400
+Complemento:
+
+

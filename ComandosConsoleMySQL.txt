@@ -1,0 +1,13 @@
+SELECT * FROM `users` WHERE `id` = 56;
+
+UPDATE `users` SET `id_permission` = '1' WHERE `id` = 56;
+
+UPDATE `users` SET `admin` = '1' WHERE `id` = 56;
+
+[ CRIADO ]
+[USER] CKah13
+[PASSWORD] GA:5pKtzpQGGzrm
+
+permission_items
+
+SELECT * FROM `permission_items` WHERE `id` = 5;

@@ -1,0 +1,18 @@
+.store-thumb{
+	display: inline-block; 
+	cursor: pointer;
+	width: 153px;
+}
+.store-thumb:hover{
+	border-color:#1a0dab;
+}
+
+.delivery-thumb{
+	display: inline-block; 
+	cursor: pointer;
+	width: 153px;
+}
+.delivery-thumb:hover{
+	border-color:#1a0dab;
+
+}

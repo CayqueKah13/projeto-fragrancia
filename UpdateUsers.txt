@@ -1,0 +1,4 @@
+TRUNCATE TABLE users;
+
+INSERT INTO users ( id, email, password, name, admin, token, boletos_day, id_permission, confirm_email, hash_confirm_email)     
+VALUES (51,'daniel_magu@yahoo.com.br','8a53253e6a3ae551a90337c7d9a55af2','Daniel Sousa',0,NULL,15,0,1,'a0767f9bc8b76f7fd7edb5043ade7d69'),(52,'m.matos08@gmail.com','6cbf0a0edfc7afe88688d3786af08f14','Marcelo Matos',0,NULL,15,0,1,'41f6f4c104c9a3ef4246f2291ae5ea35'),(53,'grexlima15@gmail.com','d631e0d145d5e481821c9737bfc1f63f','luan lima',0,NULL,15,0,1,'a28eee14784f2a69ff35866d6bbd60ee'),(54,'wendel.santos1708@gmail.com','8135282d5904c62e17ea12a8f6a9ed97','Wendel Ferreira santos',0,NULL,15,0,1,'6df44e26cb7e1acceb0a941fa2fd3124'),(55,'roroalvespinheiro@gmail.com','3e35c23a9e9c244e067db125e8436f42','Rosangela Alves Pinheiro',0,NULL,15,0,1,'4e00a072aefca9938d0e1bb29bf5269b'),(56,'zaneide@pixelsmkt.com.br','836201ce9238921babda2d38c9ef8d17','Zaneidee',0,NULL,15,0,1,'9213232aa308e29a5295f27297069344');
